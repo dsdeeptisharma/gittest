@@ -6,7 +6,7 @@
 - This is **bold** :wink:
 
  You can even [link to Google!](http://google.com)
- * [AngularJS] - HTML enhanced for web apps!
+ * web apps!
 
 Easy image displaying also using ![GitHub Logo](/images/logo.png)
 
