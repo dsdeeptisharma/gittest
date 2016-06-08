@@ -1,9 +1,9 @@
-#Heading 1
-##Heading 2
-###Heading 3
+#Heading 1 :blush:
+##Heading 2 :smile:
+###Heading 3 :smiley:
 
-This is *italic*
-This is **bold**
+This is *italic* :relieved:
+This is **bold** :wink:
 
  You can even [link to Google!](http://google.com)
 
