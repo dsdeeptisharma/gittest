@@ -18,7 +18,7 @@ Lets check ~~this~~ also :relaxed:
 
 I think you should use an
 `<addr>` element here instead. :grinning:
-``` sh
+``` 
 Hi
 Hello
 Hey
