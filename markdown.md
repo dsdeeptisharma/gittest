@@ -14,6 +14,8 @@ Easy image displaying also using ![GitHub Logo](/images/logo.png)
 > to make your future bright
 
 
+I think you should use an
+`<addr>` element here instead.
 
 First Header | Second Header
 ------------ | -------------
