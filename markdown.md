@@ -14,7 +14,6 @@ Easy image displaying also using ![GitHub Logo](/images/logo.png)
 > Work hard :heart_eyes:
 > to make your future bright :notes: 
 
-$$x^2+2x+4$$
 
 Lets check ~~this~~ also :relaxed:
 
