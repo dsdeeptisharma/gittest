@@ -7,7 +7,7 @@ This is **bold**
 
  You can even [link to Google!](http://google.com)
 
-
+Easy image displaying also using ![GitHub Logo](/images/logo.png)
 
 
 First Header | Second Header
