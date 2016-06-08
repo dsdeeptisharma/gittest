@@ -2,8 +2,8 @@
 ##Heading 2 :smile:
 ###Heading 3 :smiley:
 
-This is *italic* :relieved:
-This is **bold** :wink:
+- This is *italic* :relieved:
+- This is **bold** :wink:
 
  You can even [link to Google!](http://google.com)
 
