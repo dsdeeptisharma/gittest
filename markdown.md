@@ -13,6 +13,7 @@ Easy image displaying also using ![GitHub Logo](/images/logo.png)
 > Work hard
 > to make your future bright
 
+Lets check ~~this~~ also
 
 I think you should use an
 `<addr>` element here instead.
