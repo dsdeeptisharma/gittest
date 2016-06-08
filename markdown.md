@@ -10,13 +10,13 @@ This is **bold** :wink:
 Easy image displaying also using ![GitHub Logo](/images/logo.png)
 
 
-> Work hard
-> to make your future bright
+> Work hard :heart_eyes:
+> to make your future bright :notes: 
 
-Lets check ~~this~~ also
+Lets check ~~this~~ also :relaxed:
 
 I think you should use an
-`<addr>` element here instead.
+`<addr>` element here instead. :grinning:
 
 First Header | Second Header
 ------------ | -------------
