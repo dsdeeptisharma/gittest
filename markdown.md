@@ -4,6 +4,7 @@
 
 This is *italic* :relieved:
 This is **bold** :wink:
+/play secret
 
  You can even [link to Google!](http://google.com)
 
