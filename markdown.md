@@ -15,6 +15,7 @@ Easy image displaying also using ![GitHub Logo](/images/logo.png)
 > to make your future bright :notes: 
 
 Lets check ~~this~~ also :relaxed:
+---
 
 I think you should use an
 `<addr>` element here instead. :grinning:
