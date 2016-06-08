@@ -10,6 +10,11 @@ This is **bold**
 Easy image displaying also using ![GitHub Logo](/images/logo.png)
 
 
+> Work hard
+> to make your future bright
+
+
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
