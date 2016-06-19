@@ -1,0 +1,5 @@
+octave: X11 DISPLAY environment variable not set
+octave: disabling GUI features
+error: 'dispatch' undefined near line 99 column 1
+error: called from
+    widelec.in at line 99 column 1
