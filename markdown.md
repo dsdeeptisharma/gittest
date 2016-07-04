@@ -1,3 +1,5 @@
+
+
 #Heading 1 :blush:
 ##Heading 2 :smile:
 ###Heading 3 :smiley:
@@ -32,10 +34,3 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
----
-layout: post
-title: "Typography by Inderpreet"
-date:   2016-06-03 01:30:00 +0530
-author: "Inderpreet Singh"
-categories: presentation
----
